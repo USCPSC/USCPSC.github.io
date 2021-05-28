@@ -7,10 +7,7 @@
  
 ## Saferproducts.gov   
 
- <img src="https://www.cpsc.gov/sites/all/themes/cpsc/images/logo.png" alt="CPSc Logo" width=52 height=52> 
- 
 
- 
 ### System Design and Architecture Review 
 
 #### Technologies Used 

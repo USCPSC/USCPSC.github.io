@@ -42,7 +42,7 @@ JDK 1.8.0 (needed for the Elasticsearch Engine)
 #### Physical Architecture
 
 
-
+<img src="https://drive.google.com/file/d/136srb2TAhaW11BzTxJVbWpzoOMwfGl20/view" alt="CPSC" width=100 height=100> 
 
 
 

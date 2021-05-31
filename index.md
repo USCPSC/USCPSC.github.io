@@ -42,7 +42,7 @@ JDK 1.8.0 (needed for the Elasticsearch Engine)
 #### Physical Architecture
 
 
-<img src="./Saferproducts.png" alt="diagram" width=1000 height=1000 > 
+<img src="./Saferproducts.png" alt="diagram"  > 
 
 
 

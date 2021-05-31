@@ -40,6 +40,7 @@ Log4net 3.1.0
 JDK 1.8.0 (needed for the Elasticsearch Engine) 
 
 #### Physical Architecture
+<hr>
 
 
 <img src="./Saferproducts.png" alt="diagram"  > 

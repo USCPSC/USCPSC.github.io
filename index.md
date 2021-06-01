@@ -1,5 +1,5 @@
 
-## CPSC Apps Documentation  
+
 
  <img src="https://www.cpsc.gov/sites/all/themes/cpsc/images/logo.png" alt="CPSc Logo" width=52 height=52> 
  

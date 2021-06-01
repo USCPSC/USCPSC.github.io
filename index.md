@@ -7,10 +7,20 @@
  
 ## Saferproducts.gov   
 
+Located at www.saferproducts.gov, will allow the public to search for and review reports on consumer products, as well as the comments that manufacturers or private labelers provide in response to those reports.
 
-### System Design and Architecture Review 
+The incident managemenet system is composed of a public portal, a data syncer, a business portal and an incident management application where business processes and  rules are applied to the incident reports before they are published to the public portal to be searchable.
 
-#### Technologies Used 
+#### Physical Architecture
+<hr>
+
+
+<img src="./Saferproducts.png" alt="diagram"  > 
+
+
+### Technoligies Used
+
+#### saferproducts.gov
 <hr>
 
 .NET Core Core 3.x 
@@ -41,11 +51,7 @@ JDK 1.8.0 (needed for the Elasticsearch Engine)
 
 ### CPSC 360
 
-#### Physical Architecture
-<hr>
 
-
-<img src="./Saferproducts.png" alt="diagram"  > 
 
 
 

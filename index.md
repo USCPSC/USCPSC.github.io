@@ -40,7 +40,7 @@ The incident management system is composed of a public portal, a data syncer, a 
   <td>ASP.net Core 3.x, Jquery,Bootstrap CSS, HTML 5</td>
  </tr>
  <tr>
-  <td>Form validation</td>
+  <td>Form Validation</td>
    <td>Server Side C#, Jquery, HTML 5</td>
   <td>Server Side C#, Jquery & DevXpress </td>
   <td>Server Side C#, Jquery,DevXpress</td>
@@ -61,7 +61,7 @@ The incident management system is composed of a public portal, a data syncer, a 
   <td>Dapper, MS Entity Framework</td>
  </tr>
  <tr>
-   <td>Data Base</td>
+   <td>Database</td>
    <td>Sql Server</td>
   <td>Sql Server</td>
   <td>Sql Server</td>

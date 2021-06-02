@@ -62,9 +62,12 @@ The incident management system is composed of a public portal, a data syncer, a 
    <td>SqL Server</td>
   <td>Sql Server</td>
   <td>Sql Server</td>
-  <td>Sql Server,Elsticsearch</td>
+  <td>Sql Server,Elasticsearch</td>
  </tr>
 </table>
+
+Packages & Versions
+<hr>
 
 .NET Core Core 3.x 
 

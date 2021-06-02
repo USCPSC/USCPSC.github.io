@@ -61,7 +61,7 @@ The incident management system is composed of a public portal, a data syncer, a 
  </tr>
  <tr>
    <td>Data Base</td>
-   <td>SqL Server</td>
+   <td>Sql Server</td>
   <td>Sql Server</td>
   <td>Sql Server</td>
   <td>Sql Server,Elasticsearch</td>

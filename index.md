@@ -45,7 +45,7 @@ The incident management system is composed of a public portal, a data syncer, a 
   <td>Server Side C#, Jquery,DevXpress</td>
  <td>n/a</td>
  </tr>
- </tr>
+ <tr>
  <td>Business Logic Layer</td>
   <td>.Net Core 3.x</td>
   <td>.Net Framework</td>

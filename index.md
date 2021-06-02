@@ -9,7 +9,7 @@
 
 Located at www.saferproducts.gov, will allow the public to search for and review reports on consumer products, as well as the comments that manufacturers or private labelers provide in response to those reports.
 
-The incident managemenet system is composed of a public portal, a data syncer, a business portal and an incident management application where business processes and  rules are applied to the incident reports before they are published to the public portal to be searchable.
+The incident management system is composed of a public portal, a data syncer, a business portal and an incident management application where business processes and  rules are applied to the incident reports before they are published to the public portal to be searchable.
 
 #### Physical Architecture
 <hr>
@@ -27,19 +27,31 @@ The incident managemenet system is composed of a public portal, a data syncer, a
  <tr>
  <th>Applications</th>
  <th>saferproducts (public)</th>
+ 
  <th>saferproducts (business portal)</th>
  <th>CPSC 360/ Incident Management</th>
  </tr>
  <tr>
   <td>Front End UI</td>
   <td>ASP.net Core 3.x, Jquery,Bootstrap CSS, HTML 5</td>
-  <td>ASP.net Framework 4.0, Jquery,DevExpress UIKIt</td>
-  <td>ASP.net Framework 4.0, Jquery,DevExpress UIKIt</td>
+  <td>ASP.net Framework 4.0, Jquery,DevXpress</td>
+  <td>ASP.net Framework 4.0, Jquery,DevXPress</td>
  </tr>
   <td>Form validation</td>
    <td>Server Side C#, Jquery, HTML 5</td>
-  <td>Server Side C#, Jquery & DevExpress UIKIt</td>
-  <td>Server Side C#, Jquery,DevExpress UIKIt</td>
+  <td>Server Side C#, Jquery & DevXpress </td>
+  <td>Server Side C#, Jquery,DevXpress</td>
+ </tr>
+ <td>Business Logic Layer</td>
+  <td>>.Net Core</td>
+  <td>.Net Framework</td>
+  <td>.Net Framework</td>
+ </tr>
+ </tr>
+  <td>Data Access Layer</td>
+   <td>Dapper, MS Entity Framework</td>
+  <td>Server Side C#, Jquery & DevXpress</td>
+  <td>Server Side C#, Jquery,DevXpress</td>
  </tr>
  
   

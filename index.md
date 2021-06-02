@@ -30,7 +30,7 @@ The incident management system is composed of a public portal, a data syncer, a 
  
  <th>saferproducts (business portal)</th>
  <th>CPSC 360/ Incident Management</th>
-  <th>Saferproducts (search)</th>
+  <th>saferproducts (search)</th>
  </tr>
  <tr>
   <td>Front End UI</td>

@@ -7,7 +7,7 @@
  
 ## Saferproducts.gov   
 
-Located at www.saferproducts.gov, will allow the public to search for and review reports on consumer products, as well as the comments that manufacturers or private labelers provide in response to those reports.
+Located at www.saferproducts.gov, the portal allows the public to search for and review reports on consumer products, as well as the comments that manufacturers or private labelers provide in response to those reports.
 
 The incident management system is composed of a public portal, a data syncer, a business portal and an incident management application where business processes and  rules are applied to the incident reports before they are published to the public portal to be searchable.
 

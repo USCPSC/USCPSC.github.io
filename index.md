@@ -58,7 +58,7 @@ The incident management system is composed of a public portal, a data syncer, a 
    <td>Dapper, MS Entity Framework</td>
   <td>Custom ORM</td>
   <td>Custom ORM</td>
-  <td>NEST by Elastc, MS Entity Framework</td>
+  <td>NEST by Elastic, MS Entity Framework</td>
  </tr>
  <tr>
    <td>Database</td>

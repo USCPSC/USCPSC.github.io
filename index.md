@@ -30,33 +30,40 @@ The incident management system is composed of a public portal, a data syncer, a 
  
  <th>saferproducts (business portal)</th>
  <th>CPSC 360/ Incident Management</th>
+  <th>Saferproducts (search)</th>
  </tr>
  <tr>
   <td>Front End UI</td>
   <td>ASP.net Core 3.x, Jquery,Bootstrap CSS, HTML 5</td>
   <td>ASP.net Framework 4.0, Jquery,DevXpress</td>
   <td>ASP.net Framework 4.0, Jquery,DevXPress</td>
+  <td>ASP.net Core 3.x, Jquery,Bootstrap CSS, HTML 5</td>
  </tr>
   <td>Form validation</td>
    <td>Server Side C#, Jquery, HTML 5</td>
   <td>Server Side C#, Jquery & DevXpress </td>
   <td>Server Side C#, Jquery,DevXpress</td>
+ <td>n/a</td>
  </tr>
  <td>Business Logic Layer</td>
   <td>>.Net Core</td>
   <td>.Net Framework</td>
   <td>.Net Framework</td>
+  <td>ASP.net Core 3.x</td>
  </tr>
  </tr>
   <td>Data Access Layer</td>
    <td>Dapper, MS Entity Framework</td>
-  <td>Server Side C#, Jquery & DevXpress</td>
-  <td>Server Side C#, Jquery,DevXpress</td>
+  <td>Custom ORM</td>
+  <td>Custom ORM</td>
+  <td>Dapper, MS Entity Framework</td>
  </tr>
- 
-  
- 
- 
+   <td>Data Base</td>
+   <td>SqL Server</td>
+  <td>Sql Server</td>
+  <td>Sql Server</td>
+  <td>Sql Server,Elsticsearch</td>
+ </tr>
 </table>
 
 .NET Core Core 3.x 
@@ -85,7 +92,7 @@ Log4net 3.1.0
 
 JDK 1.8.0 (needed for the Elasticsearch Engine) 
 
-### CPSC 360
+
 
 
 

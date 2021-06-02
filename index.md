@@ -23,6 +23,30 @@ The incident managemenet system is composed of a public portal, a data syncer, a
 #### saferproducts.gov
 <hr>
 
+<table>
+ <tr>
+ <th>Applications</th>
+ <th>saferproducts (public)</th>
+ <th>saferproucts (business portal)</th>
+ <th>CPSC 360/ Incident Management</th>
+ </tr>
+ <tr>
+  <td>Front End UI</td>
+  <td>ASP.net Core 3.x, Jquery,Bootstrap CSS, HTML 5</td>
+  <td>ASP.net Framework 4.0, Jquery,DevExpress UIKIt</td>
+  <td>ASP.net Framework 4.0, Jquery,DevExpress UIKIt</td>
+ </tr>
+  <td>Form validation</td>
+   <td>Server Side C#, Jquery, HTML 5</td>
+  <td>Server Side C#, Jquery & DevExpress UIKIt</td>
+  <td>Server Side C#, Jquery,DevExpress UIKIt</td>
+ </tr>
+ 
+  
+ 
+ 
+</table>
+
 .NET Core Core 3.x 
 
 ASP.NET Core 3.x Razor pages 

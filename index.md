@@ -18,7 +18,7 @@ The incident managemenet system is composed of a public portal, a data syncer, a
 <img src="./Saferproducts.png" alt="diagram"  > 
 
 
-### Technoligies Used
+### Technologies Used
 
 #### saferproducts.gov
 <hr>
@@ -27,7 +27,7 @@ The incident managemenet system is composed of a public portal, a data syncer, a
  <tr>
  <th>Applications</th>
  <th>saferproducts (public)</th>
- <th>saferproucts (business portal)</th>
+ <th>saferproducts (business portal)</th>
  <th>CPSC 360/ Incident Management</th>
  </tr>
  <tr>
